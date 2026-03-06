@@ -1,4 +1,4 @@
-# Nimbus Weather App ☁️
+# Nimbus Weather App 
 
 A minimal, aesthetic weather application built with HTML, CSS, and JavaScript. Fetches real-time weather data using the Open-Meteo API (no API key required).
 
