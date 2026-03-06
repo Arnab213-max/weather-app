@@ -29,6 +29,3 @@ A minimal, aesthetic weather application built with HTML, CSS, and JavaScript. F
 ## API Reference
 - [Open-Meteo Weather API](https://open-meteo.com/)
 - [Open-Meteo Geocoding API](https://open-meteo.com/en/docs/geocoding-api)
-
-## License
-MIT
