@@ -19,7 +19,3 @@ A minimal, aesthetic weather application built with HTML, CSS, and JavaScript. F
 1. Clone this repository
 2. Open `index.html` in your browser
 3. Search for any city to see weather data
-
-## API Reference
-- [Open-Meteo Weather API](https://open-meteo.com/)
-- [Open-Meteo Geocoding API](https://open-meteo.com/en/docs/geocoding-api)
