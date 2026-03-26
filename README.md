@@ -12,14 +12,8 @@ A minimal, aesthetic weather application built with HTML, CSS, and JavaScript. F
 
 ## Technologies Used
 - HTML5
-- CSS3 (with backdrop-filter and modern styling)
-- Vanilla JavaScript
-
-## Live Demo
-[Add your GitHub Pages link here]
-
-## Screenshot
-![Weather App Screenshot](screenshot.png)
+- CSS3
+- Javascript
 
 ## Setup
 1. Clone this repository
